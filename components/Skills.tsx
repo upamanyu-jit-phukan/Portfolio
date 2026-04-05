@@ -4,6 +4,7 @@ export default function Skills() {
       "Strong problem-solving (DSA & Competitive Programming)",
       "Developing AI-based systems and tools",
       "Creating responsive and modern UI with Tailwind",
+      "Communication Skills",
     ];
   
     return (
